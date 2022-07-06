@@ -1,2 +1,2 @@
 # SER_torch
-A repository to manage my codes for speech emotion recognition 
+大学院で研究してる音声感情認識のコードを管理するためのリポジトリです．
