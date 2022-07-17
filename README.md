@@ -13,4 +13,4 @@
 プロジェクトの進捗を上げていくところ．
 
 #### 今あるプロジェクト
-- IEMOCAP IEMOCAPとEmo-DBを使ってTFNNを学習させる．ベースラインになる予定．
+- IEMOCAP:IEMOCAPとEmo-DBを使ってTFNNを学習させる．ベースラインになる予定．
