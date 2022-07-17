@@ -13,4 +13,4 @@
 プロジェクトの進捗を上げていくところ．
 
 #### 今あるプロジェクト
-- IEMOCAP_EmoDB_marge: IEMOCAPとEmo-DB両方を使ってTFNNをトレーニングする．ベースラインモデルになる予定．
+- IEMOCAP IEMOCAPとEmo-DBを使ってTFNNを学習させる．ベースラインになる予定．
